@@ -24286,7 +24286,7 @@ RN(){var s=this,r=s.Q
 if(r==null){r=s.Q=new H.xQ(s.f)
 r.d=new H.OD(s)}return r},
 HD(a){var s,r,q=this
-if(C.b.v(C.Ah,a.type)){s=q.RN()
+if(C.b.v(C.Ag,a.type)){s=q.RN()
 s.toString
 r=q.f.$0()
 s.sYH(P.aim(r.a+500,r.b))
@@ -36434,7 +36434,7 @@ r.seK(0,!U.e6(s))}this.cG()}}
 T.zH.prototype={
 O(a,b){var s=null,r=K.aW(b),q=b.U(t.w).f.f.b,p=Z.aiv(b,s),o=C.yZ.D(0,new V.bg(0,q,0,0)),n=r.a0.y
 n.toString
-n=L.qw(F.a9E(C.IR,b,!1,!1,!1,!0),s,C.bx,!0,n,s,s,C.aw)
+n=L.qw(F.a9E(C.IQ,b,!1,!1,!1,!0),s,C.bx,!0,n,s,s,C.aw)
 return M.fC(s,new G.pN(n,o,C.v9,s,C.b7,C.iv,s,s),C.y,s,s,new S.dw(s,s,new F.cE(C.r,C.r,p,C.r),s,s,s,C.a1),s,q+161,C.yY,s,s,s,s)}}
 T.qJ.prototype={
 gt(a){return J.da(this.a)},
@@ -46689,7 +46689,7 @@ U.nC.prototype={}
 U.Ck.prototype={
 kY(a,b){var s,r,q,p,o,n=$.aa.w$.f.f
 if(n==null||n.d==null)return!1
-for(s=t.aU,r=0;r<2;++r){q=C.Ak[r]
+for(s=t.aU,r=0;r<2;++r){q=C.Aj[r]
 p=n.d
 p.toString
 o=U.a8o(p,q,s)
@@ -54215,7 +54215,7 @@ if(!s.gF(s)){s=r.a(N.dX.prototype.gW.call(q))
 r=q.gkx(q)
 s.sb7(t.uT.a(r.gE(r).gW()))}else r.a(N.dX.prototype.gW.call(q)).sb7(null)}}
 Y.Aq.prototype={
-O(a,b){var s=null,r=E.xX(C.m,C.IV),q=t.E,p=H.a([C.yN,Q.AW(new Y.Q0(b),C.ui),Q.AW(new Y.Q1(b),C.uk),Q.AW(new Y.Q2(b),C.uj),Q.AW(new Y.Q3(b),C.ul),Q.AW(new Y.Q4(b),C.IS)],q),o=P.aQ([null,0],t.st,t.S)
+O(a,b){var s=null,r=E.xX(C.m,C.IV),q=t.E,p=H.a([C.yN,Q.AW(new Y.Q0(b),C.ui),Q.AW(new Y.Q1(b),C.uk),Q.AW(new Y.Q2(b),C.uj),Q.AW(new Y.Q3(b),C.ul),Q.AW(new Y.Q4(b),C.IR)],q),o=P.aQ([null,0],t.st,t.S)
 return M.De(r,T.z7(H.a([T.MB(new U.r7(M.akd(s,s,new L.q1("images/logo.png",s,s)),s),s,s)],q),C.bo),new Z.zF(new B.AY(new G.Xi(!0,!0,!0,p,o),s,C.q,!1,s,!0,C.uQ,!1,s,6,C.aB,C.E3,s,C.ai,s),s))}}
 Y.Q0.prototype={
 $0(){var s=V.B6(new Y.Q_(),null,t.z)
@@ -54250,13 +54250,13 @@ $0(){K.l5(this.a).qI(0,null)},
 $S:0}
 Y.nk.prototype={
 O(a,b){var s=null
-return M.De(E.xX(C.A,C.ui),M.fC(s,T.z7(C.AU,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
+return M.De(E.xX(C.A,C.ui),M.fC(s,T.z7(C.Ah,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
 Y.nl.prototype={
 O(a,b){var s=null
-return M.De(E.xX(C.A,C.uk),M.fC(s,T.z7(C.Aj,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
+return M.De(E.xX(C.A,C.uk),M.fC(s,T.z7(C.Ap,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
 Y.nm.prototype={
 O(a,b){var s=null
-return M.De(E.xX(C.A,C.uj),M.fC(s,T.z7(C.Ag,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
+return M.De(E.xX(C.A,C.uj),M.fC(s,T.z7(C.AU,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
 Y.nn.prototype={
 O(a,b){var s=null
 return M.De(E.xX(C.A,C.ul),M.fC(s,T.z7(C.AB,C.bo),C.y,s,s,s,s,s,C.dg,s,s,s,s),s)}}
@@ -56937,7 +56937,7 @@ C.df=new Z.zG("DrawerAlignment.end")
 C.yZ=new V.bg(16,16,16,8)
 C.yY=new V.bg(0,0,0,8)
 C.iv=new P.aE(25e4)
-C.IR=new L.dp("Menu",null,null,null,null)
+C.IQ=new L.dp("Menu",null,null,null,null)
 C.yN=new T.zH(null)
 C.w=new P.aE(0)
 C.aC=new P.aE(1e5)
@@ -57110,21 +57110,21 @@ C.iB=new P.et(8)
 C.zK=H.a(s([C.f9,C.zd,C.ze,C.L,C.aE,C.zf,C.cq,C.zg,C.iB]),H.U("p<et>"))
 C.iU=H.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 C.zM=H.a(s(["*::class","*::dir","*::draggable","*::hidden","*::id","*::inert","*::itemprop","*::itemref","*::itemscope","*::lang","*::spellcheck","*::title","*::translate","A::accesskey","A::coords","A::hreflang","A::name","A::shape","A::tabindex","A::target","A::type","AREA::accesskey","AREA::alt","AREA::coords","AREA::nohref","AREA::shape","AREA::tabindex","AREA::target","AUDIO::controls","AUDIO::loop","AUDIO::mediagroup","AUDIO::muted","AUDIO::preload","BDO::dir","BODY::alink","BODY::bgcolor","BODY::link","BODY::text","BODY::vlink","BR::clear","BUTTON::accesskey","BUTTON::disabled","BUTTON::name","BUTTON::tabindex","BUTTON::type","BUTTON::value","CANVAS::height","CANVAS::width","CAPTION::align","COL::align","COL::char","COL::charoff","COL::span","COL::valign","COL::width","COLGROUP::align","COLGROUP::char","COLGROUP::charoff","COLGROUP::span","COLGROUP::valign","COLGROUP::width","COMMAND::checked","COMMAND::command","COMMAND::disabled","COMMAND::label","COMMAND::radiogroup","COMMAND::type","DATA::value","DEL::datetime","DETAILS::open","DIR::compact","DIV::align","DL::compact","FIELDSET::disabled","FONT::color","FONT::face","FONT::size","FORM::accept","FORM::autocomplete","FORM::enctype","FORM::method","FORM::name","FORM::novalidate","FORM::target","FRAME::name","H1::align","H2::align","H3::align","H4::align","H5::align","H6::align","HR::align","HR::noshade","HR::size","HR::width","HTML::version","IFRAME::align","IFRAME::frameborder","IFRAME::height","IFRAME::marginheight","IFRAME::marginwidth","IFRAME::width","IMG::align","IMG::alt","IMG::border","IMG::height","IMG::hspace","IMG::ismap","IMG::name","IMG::usemap","IMG::vspace","IMG::width","INPUT::accept","INPUT::accesskey","INPUT::align","INPUT::alt","INPUT::autocomplete","INPUT::autofocus","INPUT::checked","INPUT::disabled","INPUT::inputmode","INPUT::ismap","INPUT::list","INPUT::max","INPUT::maxlength","INPUT::min","INPUT::multiple","INPUT::name","INPUT::placeholder","INPUT::readonly","INPUT::required","INPUT::size","INPUT::step","INPUT::tabindex","INPUT::type","INPUT::usemap","INPUT::value","INS::datetime","KEYGEN::disabled","KEYGEN::keytype","KEYGEN::name","LABEL::accesskey","LABEL::for","LEGEND::accesskey","LEGEND::align","LI::type","LI::value","LINK::sizes","MAP::name","MENU::compact","MENU::label","MENU::type","METER::high","METER::low","METER::max","METER::min","METER::value","OBJECT::typemustmatch","OL::compact","OL::reversed","OL::start","OL::type","OPTGROUP::disabled","OPTGROUP::label","OPTION::disabled","OPTION::label","OPTION::selected","OPTION::value","OUTPUT::for","OUTPUT::name","P::align","PRE::width","PROGRESS::max","PROGRESS::min","PROGRESS::value","SELECT::autocomplete","SELECT::disabled","SELECT::multiple","SELECT::name","SELECT::required","SELECT::size","SELECT::tabindex","SOURCE::type","TABLE::align","TABLE::bgcolor","TABLE::border","TABLE::cellpadding","TABLE::cellspacing","TABLE::frame","TABLE::rules","TABLE::summary","TABLE::width","TBODY::align","TBODY::char","TBODY::charoff","TBODY::valign","TD::abbr","TD::align","TD::axis","TD::bgcolor","TD::char","TD::charoff","TD::colspan","TD::headers","TD::height","TD::nowrap","TD::rowspan","TD::scope","TD::valign","TD::width","TEXTAREA::accesskey","TEXTAREA::autocomplete","TEXTAREA::cols","TEXTAREA::disabled","TEXTAREA::inputmode","TEXTAREA::name","TEXTAREA::placeholder","TEXTAREA::readonly","TEXTAREA::required","TEXTAREA::rows","TEXTAREA::tabindex","TEXTAREA::wrap","TFOOT::align","TFOOT::char","TFOOT::charoff","TFOOT::valign","TH::abbr","TH::align","TH::axis","TH::bgcolor","TH::char","TH::charoff","TH::colspan","TH::headers","TH::height","TH::nowrap","TH::rowspan","TH::scope","TH::valign","TH::width","THEAD::align","THEAD::char","THEAD::charoff","THEAD::valign","TR::align","TR::bgcolor","TR::char","TR::charoff","TR::valign","TRACK::default","TRACK::kind","TRACK::label","TRACK::srclang","UL::compact","UL::type","VIDEO::controls","VIDEO::height","VIDEO::loop","VIDEO::mediagroup","VIDEO::muted","VIDEO::preload","VIDEO::width"]),t.s)
-C.IQ=new L.dp("Graphene is an allotrope of carbon consisting of a single \nlayer of atoms arranged in a two-dimensional honeycomb \nlattice nanostructure. \n\nGraphene is the thinnest material known to man at one \natom thick, and also incredibly strong - about 200 times \nstronger than steel. On top of that, graphene is an excellent \nconductor of heat and electricity and has interesting light \nabsorption abilities. It is truly a material that could \nchange the world, with unlimited potential for integration \nin almost any industry.",null,null,null,null)
-C.wd=new T.iU(C.ab,null,1,C.IQ,null)
-C.Ag=H.a(s([C.wd]),t.E)
 C.dD=H.a(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
-C.Ah=H.a(s(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),t.s)
+C.Ag=H.a(s(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),t.s)
+C.IU=new L.dp("Graphene is an exciting material that is getting \na lot of attention - especially since the 2010 \nNobel prize in physics went to Andre Geim and \nKonstantin Novoselov, who first isolated \nGraphene in 2004. \n\nGraphene is a one-atom-thick layer of carbon \natoms arranged in a hexagonal lattice. \nIt is the building-block of Graphite \n(which is used, among others things, in pencil tips), \nbut graphene is a remarkable substance on its own. \n\nGraphene has an unique combination of extraordinary \nproperties offers a fascinating material platform \nfor the development of next-generation technologies \nin many areas, i.e., wearable and superfast \nelectronics, ultrasensitive sensors, \nmultifunctional composites and coatings, \nmembranes, medicine nd biotechnology, energy \nharvesting and storage.",null,null,null,null)
+C.wf=new T.iU(C.ab,null,1,C.IU,null)
+C.Ah=H.a(s([C.wf]),t.E)
 C.iW=H.a(s([0,0,26624,1023,65534,2047,65534,2047]),t.t)
-C.IU=new L.dp("Graphene is indeed very exciting, but producing high quality \nmaterials is still a challenge. Dozens of companies around \nthe world are producing different types and grades of \ngraphene materials - ranging from high quality single-layer \ngraphene synthesized using a CVD-based process to graphene \nflakes produced from graphite in large volumes. \n\nGraphene is an extremely diverse material, and can be combined \nwith other elements (including gases and metals) to produce \ndifferent materials with various superior properties. \n\nResearchers all over the world continue to constantly \ninvestigate and patent graphene to learn its various \nproperties and possible applications, which include: \n\n  transistors\n  computer chips\n  water filters\n  solar cells\n  touchscreens\n  spintronics-related products\n  etc.",null,null,null,null)
-C.wc=new T.iU(C.ab,null,1,C.IU,null)
-C.Aj=H.a(s([C.wc]),t.E)
 C.vl=new U.mc()
 C.h1=new F.Dm("ScrollIncrementType.page")
 C.tE=new F.f9(C.v,C.h1)
-C.Ak=H.a(s([C.vl,C.tE]),H.U("p<ab>"))
+C.Aj=H.a(s([C.vl,C.tE]),H.U("p<ab>"))
 C.Bd=new P.jd("en","US")
 C.iY=H.a(s([C.Bd]),t.as)
+C.IS=new L.dp("Graphene is indeed very exciting, but producing \nhigh quality materials is still a challenge. \nDozens of companies around the world are producing \ndifferent types and grades of graphene materials - \nranging from high quality single-layer \ngraphene synthesized using a CVD-based process \nto graphene flakes produced from graphite in \nlarge volumes. \n\nGraphene is an extremely diverse material, and \ncan be combined with other elements (including \ngases and metals) to produce different materials \nwith various superior properties. \n\nResearchers all over the world continue to \nconstantly investigate and patent graphene to \nlearn its various properties and possible \napplications, which include: \n\n  transistors\n  computer chips\n  water filters\n  solar cells\n  touchscreens\n  spintronics-related products\n  etc.",null,null,null,null)
+C.wd=new T.iU(C.ab,null,1,C.IS,null)
+C.Ap=H.a(s([C.wd]),t.E)
 C.b3=new P.uA("TextAffinity.upstream")
 C.av=new P.uA("TextAffinity.downstream")
 C.Az=H.a(s([C.b3,C.av]),H.U("p<uA>"))
@@ -57161,9 +57161,9 @@ C.LC=H.a(s([]),t.E)
 C.iZ=H.a(s([]),t.zz)
 C.AP=H.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 C.fm=H.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
-C.IT=new L.dp("Graphene is an exciting material that is getting a lot of \nattention - especially since the 2010 Nobel prize in physics \nwent to Andre Geim and Konstantin Novoselov, who first \nisolated Graphene in 2004. \n\nGraphene is a one-atom-thick layer of carbon atoms arranged \nin a hexagonal lattice. It is the building-block of Graphite \n(which is used, among others things, in pencil tips), but \ngraphene is a remarkable substance on its own. \n\nGraphene has an unique combination of extraordinary \nproperties offers a fascinating material platform for the \ndevelopment of next-generation technologies in many areas, \ni.e., wearable and superfast electronics, ultrasensitive sensors, \nmultifunctional composites and coatings, membranes, \nmedicine nd biotechnology, energy harvesting and storage.",null,null,null,null)
-C.wf=new T.iU(C.ab,null,1,C.IT,null)
-C.AU=H.a(s([C.wf]),t.E)
+C.IT=new L.dp("Graphene is an allotrope of carbon consisting \nof a single layer of atoms arranged in a \ntwo-dimensional honeycomb lattice nanostructure. \n\nGraphene is the thinnest material known to \nman at one atom thick, and also incredibly \nstrong - about 200 times stronger than steel. \nOn top of that, graphene is an excellent \nconductor of heat and electricity and has \ninteresting light absorption abilities. \nIt is truly a material that could change \nthe world, with unlimited potential for \nintegration in almost any industry.",null,null,null,null)
+C.wc=new T.iU(C.ab,null,1,C.IT,null)
+C.AU=H.a(s([C.wc]),t.E)
 C.dE=H.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 C.B0=H.a(s([0,0,32754,11263,65534,34815,65534,18431]),t.t)
 C.j4=H.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
@@ -57508,19 +57508,19 @@ C.CZ=new H.b1(300,{AVRInput:4294970632,AVRPower:4294970633,Accel:4294967553,Acce
 C.iV=H.a(s(["*","+","-",".","/","0","1","2","3","4","5","6","7","8","9","Alt","ArrowDown","ArrowLeft","ArrowRight","ArrowUp","Clear","Control","Delete","End","Enter","Home","Insert","Meta","PageDown","PageUp","Shift"]),t.s)
 C.j8=new G.c(42)
 C.nQ=new G.c(8589935146)
-C.Al=H.a(s([C.j8,null,null,C.nQ]),t.L)
+C.Ak=H.a(s([C.j8,null,null,C.nQ]),t.L)
 C.nC=new G.c(43)
 C.nR=new G.c(8589935147)
-C.Am=H.a(s([C.nC,null,null,C.nR]),t.L)
+C.Al=H.a(s([C.nC,null,null,C.nR]),t.L)
 C.nD=new G.c(45)
 C.nS=new G.c(8589935149)
-C.An=H.a(s([C.nD,null,null,C.nS]),t.L)
+C.Am=H.a(s([C.nD,null,null,C.nS]),t.L)
 C.nE=new G.c(46)
 C.fu=new G.c(8589935150)
-C.Ao=H.a(s([C.nE,null,null,C.fu]),t.L)
+C.An=H.a(s([C.nE,null,null,C.fu]),t.L)
 C.nF=new G.c(47)
 C.nT=new G.c(8589935151)
-C.Ap=H.a(s([C.nF,null,null,C.nT]),t.L)
+C.Ao=H.a(s([C.nF,null,null,C.nT]),t.L)
 C.nG=new G.c(48)
 C.fv=new G.c(8589935152)
 C.B3=H.a(s([C.nG,null,null,C.fv]),t.L)
@@ -57568,7 +57568,7 @@ C.AS=H.a(s([null,C.dT,C.dU,null]),t.L)
 C.Av=H.a(s([C.dL,null,null,C.fy]),t.L)
 C.AV=H.a(s([C.dM,null,null,C.fE]),t.L)
 C.AT=H.a(s([null,C.dP,C.dQ,null]),t.L)
-C.D0=new H.b1(31,{"*":C.Al,"+":C.Am,"-":C.An,".":C.Ao,"/":C.Ap,"0":C.B3,"1":C.B4,"2":C.B5,"3":C.B6,"4":C.B7,"5":C.B8,"6":C.B9,"7":C.Ba,"8":C.Ax,"9":C.Ay,Alt:C.AQ,ArrowDown:C.Aq,ArrowLeft:C.Ar,ArrowRight:C.As,ArrowUp:C.zN,Clear:C.Ae,Control:C.AR,Delete:C.Ai,End:C.At,Enter:C.AG,Home:C.Au,Insert:C.Af,Meta:C.AS,PageDown:C.Av,PageUp:C.AV,Shift:C.AT},C.iV,H.U("b1<n,u<c?>>"))
+C.D0=new H.b1(31,{"*":C.Ak,"+":C.Al,"-":C.Am,".":C.An,"/":C.Ao,"0":C.B3,"1":C.B4,"2":C.B5,"3":C.B6,"4":C.B7,"5":C.B8,"6":C.B9,"7":C.Ba,"8":C.Ax,"9":C.Ay,Alt:C.AQ,ArrowDown:C.Aq,ArrowLeft:C.Ar,ArrowRight:C.As,ArrowUp:C.zN,Clear:C.Ae,Control:C.AR,Delete:C.Ai,End:C.At,Enter:C.AG,Home:C.Au,Insert:C.Af,Meta:C.AS,PageDown:C.Av,PageUp:C.AV,Shift:C.AT},C.iV,H.U("b1<n,u<c?>>"))
 C.A_=H.a(s([42,null,null,8589935146]),t.Z)
 C.A0=H.a(s([43,null,null,8589935147]),t.Z)
 C.A1=H.a(s([45,null,null,8589935149]),t.Z)
@@ -58548,7 +58548,7 @@ C.G8=new A.q(!1,null,null,null,null,null,10,C.L,null,1.5,null,C.G,null,null,null
 C.IP=new R.cS(C.GW,C.GX,C.GY,C.GZ,C.H_,C.GP,C.GI,C.HA,C.HB,C.HC,C.Go,C.Hq,C.G8)
 C.uh=new U.Eg("TextWidthBasis.longestLine")
 C.ui=new L.dp("Overview",null,null,null,null)
-C.IS=new L.dp("Dashboard",null,null,null,null)
+C.IR=new L.dp("Dashboard",null,null,null,null)
 C.uj=new L.dp("About",null,null,null,null)
 C.uk=new L.dp("Product",null,null,null,null)
 C.IV=new L.dp("graphene",null,null,null,null)
